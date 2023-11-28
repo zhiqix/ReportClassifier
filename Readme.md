@@ -2,7 +2,7 @@
 
 ### INTRODUCTION
 
-This project aims to achieve the extraction of financial causal knowledge. We extracted causal knowledge from over 200,000 financial research reports. Several samples of these reports are showcased in the 'report_sample' directory, and the extracted causal knowledge is presented in the 'output' directory.
+This project aims to achieve the extraction of financial causal knowledge. We extracted causal knowledge from over 500,000 financial research reports. Several samples of these reports are showcased in the 'report_sample' directory, and the extracted causal knowledge is presented in the 'output' directory.
 
 ### Libraries needed
 
